@@ -1,5 +1,8 @@
 _repo: Kotipoluilta-III-Pienia-kertoelmia_61933
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lassinen, Emil
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37583
     wikipedia: https://fi.wikipedia.org/wiki/Emil_Lassinen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61933#Kotipoluilta-III-Pienia-kertoelmia
 gutenberg_issued: '2020-04-25'
 gutenberg_type: Text
 identifiers:
